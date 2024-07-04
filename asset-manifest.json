@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gameplan/static/css/main.2edf48d3.css",
-    "main.js": "/gameplan/static/js/main.f4e10f38.js",
+    "main.js": "/gameplan/static/js/main.0030438d.js",
     "static/media/basketball.png": "/gameplan/static/media/basketball.7bb00f42580242fe2cad.png",
     "static/media/tennisball.png": "/gameplan/static/media/tennisball.5a120be19b6a7d8af138.png",
     "static/media/soccerball.png": "/gameplan/static/media/soccerball.40360d52ad87c7d394ef.png",
@@ -9,10 +9,10 @@
     "static/media/profileplaceholder.png": "/gameplan/static/media/profileplaceholder.b5cef4361f21b7c66473.png",
     "index.html": "/gameplan/index.html",
     "main.2edf48d3.css.map": "/gameplan/static/css/main.2edf48d3.css.map",
-    "main.f4e10f38.js.map": "/gameplan/static/js/main.f4e10f38.js.map"
+    "main.0030438d.js.map": "/gameplan/static/js/main.0030438d.js.map"
   },
   "entrypoints": [
     "static/css/main.2edf48d3.css",
-    "static/js/main.f4e10f38.js"
+    "static/js/main.0030438d.js"
   ]
 }
