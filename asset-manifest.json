@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gameplan/static/css/main.2edf48d3.css",
+    "main.js": "/gameplan/static/js/main.1f69ae06.js",
+    "static/media/logo.png": "/gameplan/static/media/logo.433d2834cbc1eec36708.png",
+    "index.html": "/gameplan/index.html",
+    "main.2edf48d3.css.map": "/gameplan/static/css/main.2edf48d3.css.map",
+    "main.1f69ae06.js.map": "/gameplan/static/js/main.1f69ae06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2edf48d3.css",
+    "static/js/main.1f69ae06.js"
+  ]
+}
